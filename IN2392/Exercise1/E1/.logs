@@ -1,0 +1,23 @@
+Installing /home/denizkorkmaz/anaconda3/envs/ml43d/lib/python3.7/site-packages/k3d/static -> k3d
+Up to date: /home/denizkorkmaz/.local/share/jupyter/nbextensions/k3d/standalone.js
+Up to date: /home/denizkorkmaz/.local/share/jupyter/nbextensions/k3d/snapshot_online.txt
+Up to date: /home/denizkorkmaz/.local/share/jupyter/nbextensions/k3d/fflate.js
+Up to date: /home/denizkorkmaz/.local/share/jupyter/nbextensions/k3d/index.js.map
+Up to date: /home/denizkorkmaz/.local/share/jupyter/nbextensions/k3d/standalone.js.LICENSE.txt
+Up to date: /home/denizkorkmaz/.local/share/jupyter/nbextensions/k3d/index.js
+Up to date: /home/denizkorkmaz/.local/share/jupyter/nbextensions/k3d/snapshot_standalone.txt
+Up to date: /home/denizkorkmaz/.local/share/jupyter/nbextensions/k3d/require.js
+Up to date: /home/denizkorkmaz/.local/share/jupyter/nbextensions/k3d/index.js.LICENSE.txt
+Up to date: /home/denizkorkmaz/.local/share/jupyter/nbextensions/k3d/require.js.LICENSE.txt
+Up to date: /home/denizkorkmaz/.local/share/jupyter/nbextensions/k3d/standalone.js.map
+Up to date: /home/denizkorkmaz/.local/share/jupyter/nbextensions/k3d/extension.js
+Up to date: /home/denizkorkmaz/.local/share/jupyter/nbextensions/k3d/headless.html
+Up to date: /home/denizkorkmaz/.local/share/jupyter/nbextensions/k3d/snapshot_inline.txt
+- Validating: [32mOK[0m
+
+    To initialize this nbextension in the browser every time the notebook (or other app) loads:
+    
+          jupyter nbextension enable k3d --user --py
+    
+Enabling notebook extension k3d/extension...
+      - Validating: [32mOK[0m
